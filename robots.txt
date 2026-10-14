@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://step-by-step-guides-xi.vercel.app/sitemap.xml
