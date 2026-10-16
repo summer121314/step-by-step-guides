@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://step-by-step-guides-xi.vercel.app/</loc></url>
-<url><loc>https://step-by-step-guides-xi.vercel.app/guides/first-website.html</loc></url>
-<url><loc>https://step-by-step-guides-xi.vercel.app/guides/chatgpt-github-vercel.html</loc></url>
-<url><loc>https://step-by-step-guides-xi.vercel.app/guides/keyword-to-google-indexing.html</loc></url>
+  <url><loc>https://step-by-step-guides-xi.vercel.app/</loc></url>
+  <url><loc>https://step-by-step-guides-xi.vercel.app/en/</loc></url>
+  <url><loc>https://step-by-step-guides-xi.vercel.app/ja/</loc></url>
+  <url><loc>https://step-by-step-guides-xi.vercel.app/guides/first-website.html</loc></url>
+  <url><loc>https://step-by-step-guides-xi.vercel.app/en/guides/first-website.html</loc></url>
+  <url><loc>https://step-by-step-guides-xi.vercel.app/ja/guides/first-website.html</loc></url>
+  <url><loc>https://step-by-step-guides-xi.vercel.app/guides/chatgpt-github-vercel.html</loc></url>
+  <url><loc>https://step-by-step-guides-xi.vercel.app/en/guides/chatgpt-github-vercel.html</loc></url>
+  <url><loc>https://step-by-step-guides-xi.vercel.app/ja/guides/chatgpt-github-vercel.html</loc></url>
+  <url><loc>https://step-by-step-guides-xi.vercel.app/guides/keyword-to-google-indexing.html</loc></url>
+  <url><loc>https://step-by-step-guides-xi.vercel.app/en/guides/keyword-to-google-indexing.html</loc></url>
+  <url><loc>https://step-by-step-guides-xi.vercel.app/ja/guides/keyword-to-google-indexing.html</loc></url>
 </urlset>
